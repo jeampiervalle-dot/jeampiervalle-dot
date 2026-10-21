@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/1e/85/d8/1e85d85797303b24c110f39e72ce3de2.gif" width="100%" alt="Banner animado" />
+  <img src="https://i.pinimg.com/originals/1e/85/d8/1e85d85797303b24c110f39e72ce3de2.gif" width="50%" alt="Banner animado" />
 </div>
 
 <h1 align="center">Hola, soy jeampiervalle-dot 👋</h1>
